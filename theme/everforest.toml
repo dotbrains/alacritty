@@ -1,4 +1,4 @@
-# Everforest theme for Alacritty
+# Generated from modules/colorschemes/themes/everforest.toml.
 
 [colors.primary]
 background = "#2d353b"
@@ -10,7 +10,7 @@ cursor = "#d3c6aa"
 
 [colors.selection]
 text = "#d3c6aa"
-background = "#475258"
+background = "#859289"
 
 [colors.normal]
 black = "#343f44"

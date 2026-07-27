@@ -1,4 +1,4 @@
-# Solarized Dark theme for Alacritty
+# Generated from modules/colorschemes/themes/solarized.toml.
 
 [colors.primary]
 background = "#002b36"
@@ -6,11 +6,11 @@ foreground = "#839496"
 
 [colors.cursor]
 text = "#002b36"
-cursor = "#93a1a1"
+cursor = "#839496"
 
 [colors.selection]
-text = "#93a1a1"
-background = "#073642"
+text = "#839496"
+background = "#002b36"
 
 [colors.normal]
 black = "#073642"

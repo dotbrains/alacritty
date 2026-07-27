@@ -1,4 +1,4 @@
-# Tokyo Night theme for Alacritty
+# Generated from modules/colorschemes/themes/tokyo-night.toml.
 
 [colors.primary]
 background = "#1a1b26"
@@ -10,7 +10,7 @@ cursor = "#c0caf5"
 
 [colors.selection]
 text = "#c0caf5"
-background = "#283457"
+background = "#414868"
 
 [colors.normal]
 black = "#15161e"
