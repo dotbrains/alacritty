@@ -1,0 +1,5 @@
+# Default set-me-up theme. `smu theme set <theme> --apply` replaces this with
+# the selected theme.
+import = [
+    "~/.config/alacritty/theme/gruvbox.toml"
+]
